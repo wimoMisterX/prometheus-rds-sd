@@ -1,0 +1,4 @@
+boto3==1.17.85
+Flask==1.1.2
+cachetools==4.2.2
+gevent==20.9.0
